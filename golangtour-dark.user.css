@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           GolangTour-Dark
 @namespace      github.com/d-Rickyy-b
-@version        1.0.0
+@version        1.1.0
 @description    A dark theme for the "Tour of Go" introduction for the Go programming language
 @homepageURL    https://github.com/d-Rickyy-b/GolangTour-Dark
 @updateURL      https://raw.githubusercontent.com/d-Rickyy-b/GolangTour-Dark/main/golangtour-dark.user.css
@@ -9,7 +9,7 @@
 @author         d-Rickyy-b
 ==/UserStyle== */
 
-@-moz-document domain("tour.golang.org") {
+@-moz-document domain("tour.golang.org"), regexp("^https?://go.dev/tour/.*") {
 
     /* Overview site at https://tour.golang.org/list */
     .container {
