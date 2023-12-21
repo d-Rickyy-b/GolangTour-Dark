@@ -1,6 +1,9 @@
 # GolangTour-Dark
 A dark theme for the "Tour of Go" introduction for the Go programming language
 
+> [!IMPORTANT]
+> This dark theme is no longer supported since "Tour of Go" now has an official dark theme you can enable at the top right of the page.
+
 ### Showcase
 Here is a picture to get an idea of how the style will look like.
 
